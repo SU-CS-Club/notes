@@ -1,4 +1,4 @@
-baseURL = "https://xenodochial-banach-f9bca8.netlify.app/"
+baseURL = "https://notes.sucs.club/"
 languageCode = "en-us"
 title = "CS Club Notes"
 theme = "hugo-ink"
