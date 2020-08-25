@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CS Club Notes"
+theme = "hugo-ink"
+paginate = 10
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  subtitle = "A collection of notes from CS Club meetings."
+  mode = "dark"
+  avatar = "/images/cs_logo.png"
+
+  customCSS = "css/style.css"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
