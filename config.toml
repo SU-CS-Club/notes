@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://xenodochial-banach-f9bca8.netlify.app/"
 languageCode = "en-us"
 title = "CS Club Notes"
 theme = "hugo-ink"
