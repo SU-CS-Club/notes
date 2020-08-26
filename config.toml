@@ -1,4 +1,4 @@
-baseURL = "https://notes.sucs.club/"
+baseURL = "https://notes.sucs.club"
 languageCode = "en-us"
 title = "CS Club Notes"
 theme = "hugo-ink"
@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 [params]
   subtitle = "A collection of notes from CS Club meetings."
   mode = "dark"
-  avatar = "/images/cs_logo.png"
+  avatar = "images/cs_logo.png"
 
   customCSS = "css/style.css"
 
