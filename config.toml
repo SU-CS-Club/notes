@@ -17,8 +17,13 @@ pygmentscodefencesguesssyntax = true
 
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "https://sucs.club"
 weight = 1
+
+[[menu.main]]
+name = "Notes"
+url = "/"
+weight = 2
 
 [[menu.main]]
 name = "Tags"
